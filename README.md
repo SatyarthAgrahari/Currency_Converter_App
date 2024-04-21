@@ -18,4 +18,5 @@ samples, guidance on mobile development, and a full API reference.
 ### Platforms:
 
 Android: In this app present native UI design for Android.
+
 IOS: In this app also present the native UI design for IOS.
